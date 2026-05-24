@@ -1,4 +1,4 @@
-﻿# Contributing to tessera-pydantic-ai
+# Contributing to tessera-pydantic-ai
 
 Thanks for your interest. The package is Apache-2.0 licensed and PRs are welcome.
 

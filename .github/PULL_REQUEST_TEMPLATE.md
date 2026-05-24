@@ -1,4 +1,4 @@
-﻿<!--
+<!--
 Thanks for the PR. Keep the summary tight; the test plan is more important than the description.
 -->
 

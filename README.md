@@ -1,4 +1,4 @@
-﻿# `tessera-pydantic-ai`
+# `tessera-pydantic-ai`
 
 **Drop-in cost optimization for [Pydantic AI](https://pydantic.dev/docs/ai/).** Two function calls (one for the underlying SDK client kwargs, one for the Pydantic AI Provider wrapper) and every `agent.run_sync()` / `agent.run()` call lands on the [Tessera](https://tesseraai.io) optimization proxy. Auto-route to cheaper-equivalent models, exact + provider-prompt-cache hits, prompt compression with per-stack quality canary, batch arbitrage on async-tolerant calls. Free Sandbox tier: **60M tokens/month, no card**. Production: **20% of measured savings, $0 if we save you nothing**.
 

@@ -1,4 +1,4 @@
-﻿# Code of Conduct
+# Code of Conduct
 
 This project follows the canonical Tessera Code of Conduct published in [tessera-llm/tessera-sdk](https://github.com/tessera-llm/tessera-sdk/blob/main/CODE_OF_CONDUCT.md).
 
