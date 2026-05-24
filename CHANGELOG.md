@@ -1,4 +1,4 @@
-# Changelog — tessera-pydantic-ai
+﻿# Changelog — tessera-pydantic-ai
 
 All notable changes to this package are documented here. Versioning follows
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html). Wire format
