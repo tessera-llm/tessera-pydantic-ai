@@ -1,0 +1,41 @@
+﻿name: Feature request
+description: Propose a new feature or enhancement.
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Feature requests welcome. Concrete use cases help us decide what to ship.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem statement
+      description: What are you trying to do that is hard / impossible today?
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Proposed solution
+      description: How would you like it to work? Pseudo-code or a sketch is fine.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: What else did you try or consider?
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: How much does this block you?
+      options:
+        - "Nice to have"
+        - "Would unblock a specific project"
+        - "Blocks production use"
+    validations:
+      required: true
