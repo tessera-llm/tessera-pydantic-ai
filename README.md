@@ -97,6 +97,8 @@ Real customer-support agent on `gpt-4o`, 5B tokens/month, OpenAI list prices:
 | Tessera fee (20% × savings) | $2,920 | n/a |
 | **You net pay** | **$12,320** | **$11,680 / mo saved** |
 
+**Verify the savings math yourself.** Every billable line traces back to two immutable cost figures pinned to a multi-source pricing catalog snapshot captured at request time. Two engineers, three hours, can re-derive any month from raw inputs. Full procedure at [tesseraai.io/trust](https://tesseraai.io/trust).
+
 Quality canary across the full mechanic stack: mean-score 0.96 (floor 0.95). 0.95 SLA held all 30 days. Full breakdown: [worked example with mechanic-level numbers + canary results](https://tesseraai.io/blog/cut-openai-bill-48-percent-without-quality-regression).
 
 ---
